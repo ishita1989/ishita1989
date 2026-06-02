@@ -1,6 +1,6 @@
 # Hi, I'm Ishita 👋
 
-### AI Product Leader · Exited Founder · Production LLM Systems · Evals, Safety & Agentic Workflows**
+### AI Product Leader · Exited Founder · Production LLM Systems · Evals, Safety & Agentic Workflows
 
 I build AI products that have to work in the real world — not just in demos.
 
